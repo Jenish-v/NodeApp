@@ -29,4 +29,4 @@ MoviePy: for video editing and manipulation
 ImageMagick: required by MoviePy for image processing (installation instructions provided above)
 
 
-Feel free to customize it further based on your project's specific details and requirements.
+****Feel free to customize it further based on your project's specific details and requirements.****
